@@ -41,19 +41,16 @@ The application is built using React Hooks and utilizes the ESLint plugin to ens
 
 ⚙️ To run the Product-List application, follow these steps:
 
-1. Clone the repository and navigate to the project directory.
+1. Clone the repository: https://github.com/hamzashah54/React-Product-List.git
 2. Run `npm install` to install the dependencies.
 3. Run `vite` to start the development server.
-4. Open `http://localhost:3000` in your web browser to view the application.
-5. To build the production application, run `vite build`.
 
-**Testing Instructions**
+Build
+  1. Run npm run build or yarn build to build the app for production
+  2. The built app will be output to the dist directory
 
-🧪 To test the Product-List application, follow these steps:
-
-1. Clone the repository and navigate to the project directory.
-2. Run `npm install` to install the dependencies.
-3. Run `jest` to run the tests.
+Deploy
+  Deploy Link: https://hs-store-by-hamza.vercel.app/
 
 **Author**
 
