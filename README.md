@@ -49,8 +49,7 @@ Build
   1. Run npm run build or yarn build to build the app for production
   2. The built app will be output to the dist directory
 
-Deploy
-  Deploy Link: https://hs-store-by-hamza.vercel.app/
+Deploy Link: https://hs-store-by-hamza.vercel.app/
 
 **Author**
 
